@@ -7,7 +7,7 @@ Userscript extension for Witeboard.
 
 ## Features
 
-Press Smite <span style="font-size:large">[↯&#xFE0E;]</span> in top left to open the actions menu, offering:
+Press Smite <span style="font-size:large">[↯&#xFE0E;]</span> in top right to open the actions menu, offering:
 * Moor <span style="font-size:large">[⚓&#xFE0E;]</span>:
   * Save the current state of the board as an SVG.
 * Nuke <span style="font-size:large">[☢&#xFE0E;]</span>:
